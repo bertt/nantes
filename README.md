@@ -29,6 +29,20 @@ $ 7z x RGEALTI_2-0_1M_ASC_LAMB93-IGN69_D044_2022-12-20.7z.001 -o./nantes
 
 3] Make a selection of asc files for processing
 
+There are 3 folders:
+
+- RGEALTI_DST_1M_ASC_LAMB93_IGN69_D044_20230113      
+
+- RGEALTI_MNT_1M_ASC_LAMB93_IGN69_D044_20230113
+
+- RGEALTI_SRC_1M_ASC_LAMB93_IGN69_D044_20230113
+
+DST -> Surface?
+
+MNT -> DTM?
+
+SRC -> ?
+
 In our case: RGEALTI_FXX_0351_6696_MNT_LAMB93_IGN69.asc
 
 ```
