@@ -20,6 +20,11 @@ Part 1: RGEALTI_2-0_1M_ASC_LAMB93-IGN69_D044_2022-12-20.7z.001 (4 GB)
 
 Part 2: RGEALTI_2-0_1M_ASC_LAMB93-IGN69_D044_2022-12-20.7z.002 (235 MB)
 
+```
+$ wget https://geoservices.ign.fr/download/files/209211/881bc6e79958baea3f1dbf741c63af2e/0/1060/1/1 --no-check-certificate
+$ wget https://geoservices.ign.fr/download/files/209211/881bc6e79958baea3f1dbf741c63af2e/0/1060/1/2 --no-check-certificate
+```
+
 2] Unzip the files
 
 ```
