@@ -6,6 +6,8 @@ https://bertt.github.io/nantes/index.html
 
 ## Processing data
 
+Source data format: https://geoservices.ign.fr/sites/default/files/2021-07/DL_RGEALTI_2-0.pdf
+
 Process creating terrain tiles for Cesium:
 
 1] Download asc files
